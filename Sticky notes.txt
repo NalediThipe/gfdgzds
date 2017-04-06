@@ -1,0 +1,135 @@
+a149889	
+
+0860 001 321 - prestige banking
+
+0114927236 - gogo simmond
+
+07054507509 - galahad metre
+
+5196120216366624(Eu new)
+5196120194076625
+5221008462429288
+5222625466525271(Naledi new)
+PLPTN205664 (Holiday Club)
+
+10080181021- Sodumo - 23 July - R1600
+
+Ekurhuleni ref 3503280458
+0865561770
+
+Munyezi- 020951868
+
+# 393241438065946 - sexpo ref
+-----------------------------------------------------------
+SBG CHOP
+
+pay1@sb.co.za / mtr1
+
+Pro12345
+----------------------------------------------------------------------
+Cause: Software Bug
+
+Resolution: The issue was related to a software bug. A fix was successfully implemented on the 20th July.
+-----------------------------------------
+Naledi Thipe from Service Delivery Functional Support failed to establish contact with Kagiso Tlabakwe (the user) on 3 occasions - 2014-11-24 @ 10:00, 2014-11-25 @ 14:41 & 2014-11-26 @ 12:27. The incident was updated accordingly on each occasion and person Kagiso Tlabakwe would have received system emails from the Remedy Incident Logging service for each update. Following the agreed Incident Management process this Incident is to be cancelled and the User needs to contact the IT Service Desk to raise a new incident with the required details should it be required 
+
+----------------------------------------
+
+Petse, Ayanda [03:28 PM]: 
+5196120177838736 ­Basic data was amended on the account, (account added and status code changed), hence the customer was not able to use the account immediately. the customer retried successfully.
+Update
+Basic data was amended on 2014-08-30 and the customer attempted to transact immediately. User to please request the customer to retry. 
+Cause: Basic data was amended on 2014-08-30 and the customer attempted to transact immediately.
+Resolution: The user should please request the customer to retry.
+
+-----------------------------------------
+Puresave
+
+Transactional functionality is limited to:
+deposits; 
+withdrawals; and 
+inter-account transfers.
+-----------------------------------------
+Cause: EAP limit resets when first payment of the month is made.
+
+Resolution: The EAP limit will reset when the 1st payment of the month is made.
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+Cause: Only accounts loaded on market segment optima or focus qualify for Myupdates.
+
+Resolution: The market segment for the business account has to be OPTIMA or FOCUS in order to be registered for Myupdates.
+
+------------------------------------------------------------------------------------
+Parent Ticket 4335473 
+
+Cause: S-Status (Stop all Debits) is loaded on the account.
+
+Resolution: The customer will be able to transact once S-status has been deleted from the account.
+
+
+----------------------------------------------------------------------------------
+
+Cause: Customer's domain is blocking emails from ibsupport@standardbank.co.za
+
+Resolution: Customer needs to check with the Internet Service provider as they need to ensure that ibsupport@standardbank.co.za is accepted by their domain 
+-----------------------------------------
+Cause: Invalid data
+Resolution: The cellphone number has been added on the cellphone field. Customer needs to test on Internet Banking.
+
+-----------------------------------------
+Awaiting feedback from Laz to delete incorrect acc from the profile.
+
+Cause: Invalid data
+
+Resolution: The incorrect account number has been removed from the profile.
+
+
+            
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Cause: Invalid data
+
+Resolution: The profile has been deleted. User to try and register the customer for MU. 450762525
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+Cause: Caused by change
+
+Resolution: User to request the customer to try again. A fix was successfully deployed into Production and customers are now able to register.
+------------------------------------------------------------------------------------------------------------------------------------------
+
+Tax free inv acc
+
+Cause: The function for linking is not available as yet
+
+Resolution: The account cannot be linked as yet - we are working on it. The product owner have been asked to send out a communication to say it can only be linked by end of next week sometime.
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+Cause : Unknown
+
+Resolution: The customer managed to withdraw on the 15-01-2015. User to request the customer to try again and provide retried date as well as error message should the problem persist. 
+There is no blocks / holds on CPS on this account.
+----------------------------------------------------------------------
+INC000002856870 
+Problem Description:   User advised that whenever the customer transfers funds from the Money Market call account to the Current account the funds does not clear automatically.
+
+Update
+The account was opened on 2014-03-27. If the account has been opened for less than 71 days and transferring to a "U" status account. The funds will not be cleared systematically, it will need to be cleared manually. 
+
+Cause: The account opening period is less than 71 days.
+
+--------------------------------------------------------
+
+SAP please assist as per below.
+
+This is a known problem - there was a previous incident which I think Leon investigated and sent to SAP / ESB. We getting this error back from ESB / SAP:
+File-AID - Browse - PRATM1VO.ATMERMSG ---------------------------- 
+ COMMAND ===>                                                  SCROLL ===> CSR  
+
+
+ 
+Learn more rearding ATM	   
+Jad Training	   
+ITIL foundation	 
